@@ -26,9 +26,9 @@ HI MYSELF BIKRAM GORAI<br>Currently completing my B.Tech degree in Computer Scie
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bikram-Gorai/Bikram-Gorai/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bikram-Gorai/Bikram-Gorai/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Bikram-Gorai/Bikram-Gorai/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BIKRAM-GORAI/BIKRAM-GORAI/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BIKRAM-GORAI/BIKRAM-GORAI/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BIKRAM-GORAI/BIKRAM-GORAI/output/github-snake.svg" />
   </picture>
 </p>
 
