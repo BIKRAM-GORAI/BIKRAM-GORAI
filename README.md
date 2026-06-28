@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bikram-Gorai&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=BIKRAM-GORAI&icon=0&color=0"/>
 </p>
 
 <p align="center">
