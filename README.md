@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BIKRAM-GORAI&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=BIKRAM-GORAI&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
