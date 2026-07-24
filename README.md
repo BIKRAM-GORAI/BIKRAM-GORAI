@@ -59,13 +59,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bikram-Gorai&theme=tokyonight&no-frame=true&row=1"/>
-</p>
+</p> -->
 
----
+
 
 ## 📈 Contribution Graph
 
@@ -102,10 +102,12 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BIKRAM-GORAI&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
-</p>
+</p> -->
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
+
+<img src="https://waveify.onrender.com/api/wave/plasma?color=%2300FF41&height=150&speed=6&width=1200&amplitude=35&frequency=2.3&waveType=plasma&ambientEffect=true" alt="Wave Animation" />
