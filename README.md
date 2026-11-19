@@ -49,7 +49,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikram-Gorai&show_icons=true&theme=tokyonight" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Bikram-Gorai&show_icons=true&theme=tokyonight" height="180"/> -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bikram-Gorai&theme=tokyonight" height="180"/>
 </p>
 
